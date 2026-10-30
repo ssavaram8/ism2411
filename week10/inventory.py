@@ -1,8 +1,8 @@
 # Course: ISM2411 Section 4
 # Author: Samhita Savaram
 # Reflection Questions:
-# 1. 
-# 2. 
+# 1. What surprised me the most about the exercises was that alphabetizing words is a little more complicated than it seems. Capitalized words come before lowercase words, even if they are not in alphabetical order when ignoring capitalization. Also, numbers and special characters are organized in a specific order.# 2. 
+# 2. Python saves time because it does the tedious work for me. It does the calculations and finds what's in the middle. Alphabetizing lists is also so helpful and cuts time in Excel.
 
 print("Exercise 1: Build a List") #!!!
 
