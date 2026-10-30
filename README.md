@@ -37,7 +37,11 @@ e8c65f3 Delete module08 directory
 25b36f5 Add Python assignments and lab files
 a3f78a3 Add README and gitignore
 My commit history shows all the changes I have been making to my repository. This can show my learnings and progress. 
+
 2. 
 Git helps me keep track of changes and go back to earlier versions if I make a mistake while working with code. I can test my code and compare different versions to help identify where mistakes were introduced.
+
 3. 
 They are automatically created files that are hidden until needed use. They can't be tracked by my GitHub respository because the file display settings.  
+
+!!!!!1
